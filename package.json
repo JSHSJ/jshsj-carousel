@@ -1,6 +1,7 @@
 {
   "name": "@jshsj/carousel",
   "version": "0.0.1",
+  "homepage": "https://github.com/JSHSJ/jshsj-carousel",
   "private": false,
   "files": [
     "dist"
