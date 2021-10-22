@@ -2,11 +2,11 @@
 
 Ever needed a carousel?
 
-You probably don't. But you client wants one.
+You probably don't. But your client wants one.
 
-Anyways. This is supposed to make it less painful and it aids you with a bit of accessibility, while still giving you quite a bit of control.
+Anyways, this is supposed to make it less painful and it aids you with a bit of accessibility, while still giving you quite a bit of control.
 
-It's build with @github/catalyst, which I think is fantastic.
+It's built with @github/catalyst, which I think is fantastic.
 
 ## Setup
 
